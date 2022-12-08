@@ -28,7 +28,7 @@ public class Logistic implements TaxCalculator {
 
 	}
 }
-public class Department {
+public class TaxCalculator {
 	public static void main(String[] args) {
 		basic_salary basic_salary = new basic_salary();
         
